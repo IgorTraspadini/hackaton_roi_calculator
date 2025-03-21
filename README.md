@@ -68,6 +68,12 @@ OpenBizROI-AI/
 │── README.md             # Project Documentation
 ```
 
+## 💻 Authors
+
+-  Igor Traspadini
+-  Leonardo Andrade
+-  Raul Gomes
+
 ## 🏆 Contributions & Feedback
 
 We welcome feedback and contributions! Feel free to submit pull requests or open an issue on GitHub.
